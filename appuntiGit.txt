@@ -1,0 +1,5 @@
+git fetch: Scarica le ultime modifiche dal server GitHub al tuo PC, ma non le unisce al tuo lavoro. È come dare un'occhiata alle novità senza cambiare nulla nei tuoi file.
+
+git pull: Scarica le modifiche e le unisce immediatamente ai tuoi file locali. È il comando che usi per aggiornare il tuo PC con quello che c'è su GitHub.
+
+git push: Carica le tue modifiche locali e le invia al server GitHub, rendendole visibili a tutti.
